@@ -16,7 +16,7 @@ Developed a zero-configuration solution that reduced implementation from a multi
 
 <div align="center">
     <img src="https://github.com/ogebhardt/portfolio/blob/main/Seismiq_Screenshot%203.png" alt="Seismiq Screenshot 1" width="45%" style="margin: 10px;"/>
-    <img src="https://github.com/ogebhardt/portfolio/blob/main/Seismiq%20Screenshot_2.png" alt="Seismiq Screenshot 2" width="45%" style="margin: 10px;"/>
+    <img src="https://github.com/ogebhardt/portfolio/blob/main/Seismiq%20Screenshot_2.png" alt="Seismiq Screenshot 2" width="43%" style="margin: 10px;"/>
 </div>
 
 <div align="center">
@@ -37,7 +37,7 @@ I was brought on as a founding member and Director of Analytics where I supporte
 
 <div align="center">
     <img src="https://github.com/ogebhardt/portfolio/blob/main/Bidscale%20Screenshot_1" alt="Bidscale Screenshot 1" height="330" style="margin: 10px;"/>
-    <img src="https://github.com/ogebhardt/portfolio/blob/main/Bidscale%20Screenshot_2.png" alt="Bidscale Screenshot 2" height="315" style="margin: 10px;"/>
+    <img src="https://github.com/ogebhardt/portfolio/blob/main/Bidscale%20Screenshot_2.png" alt="Bidscale Screenshot 2" height="325" style="margin: 10px;"/>
 </div>
 
 ## **DELOITTE:** July 2018 to Nov 2020
