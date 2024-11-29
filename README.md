@@ -15,12 +15,12 @@ Developed a zero-configuration solution that reduced implementation from a multi
 ### *Product Work*:
 
 <div align="center">
-    <img src="https://github.com/ogebhardt/portfolio/blob/main/Seismiq%20Screenshot_1.png" alt="Seismiq Screenshot 1" width="45%" style="margin: 10px;"/>
+    <img src="https://github.com/ogebhardt/portfolio/blob/main/Seismiq_Screenshot%203.png" alt="Seismiq Screenshot 1" width="45%" style="margin: 10px;"/>
     <img src="https://github.com/ogebhardt/portfolio/blob/main/Seismiq%20Screenshot_2.png" alt="Seismiq Screenshot 2" width="45%" style="margin: 10px;"/>
 </div>
 
 <div align="center">
-    <img src="https://github.com/ogebhardt/portfolio/blob/main/Seismiq_Screenshot%203.png" alt="Seismiq Screenshot 3" width="45%" style="margin: 10px;"/>
+    <img src="https://github.com/ogebhardt/portfolio/blob/main/Seismiq%20Screenshot_1.png" alt="Seismiq Screenshot 3" width="45%" style="margin: 10px;"/>
 </div>
 
 ## **BIDSCALE:** Dec 2020 to July 2022
