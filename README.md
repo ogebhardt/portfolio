@@ -29,7 +29,7 @@ I was brought on as a founding member and Director of Analytics where I supporte
 
 ### *Product Work:*
 
-![Bidscale Screenshot]([https://example.com/path/to/your/image.jpg](https://github.com/ogebhardt/portfolio/blob/main/Bidscale_screenshot_1))
+![Bidscale Screenshot](https://github.com/ogebhardt/portfolio/blob/main/Bidscale_screenshot_1)
 
 ## **DELOITTE:** July 2018 to Nov 2020
 
