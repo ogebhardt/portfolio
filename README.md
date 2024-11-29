@@ -48,3 +48,9 @@ I was brought on as the 8th team member on a bridge contract that became Deloitt
 - [Personally named in announcement of Global Presence Navigator](https://vimeo.com/387470296/15000adfde) (21:00), the first ever, live holistic operating picture of global resource allocation at Data for Diplomacy 2020
 
 - [Original member of Center for Analytics](https://statemag.state.gov/2020/03/0320itn02/), seeing the team grow from 9 to 70-person a Congressionally mandated office
+
+## **ADDITIONAL:**
+- [Second author on published liquid crystal research](https://pubs.rsc.org/en/content/articlehtml/2017/sc/c7sm01681f) titled *Colloidal Dynamics in Fluids with Spatiotemporally Modulated Nematic Order*
+- [Created Planeterrella as high school internship for Princeton Plasma Physics Lab] (https://www.pppl.gov/planeterrella-laboratory) that simulated solar winds that are responsible for the Aurora Borealis and Aurora Australis at miniature scale
+
+
