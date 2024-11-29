@@ -17,9 +17,6 @@ Developed a zero-configuration solution that reduced implementation from a multi
 <div align="center">
     <img src="https://github.com/ogebhardt/portfolio/blob/main/Seismiq_Screenshot%203.png" alt="Seismiq Screenshot 1" height="300" style="margin: 10px;"/>
     <img src="https://github.com/ogebhardt/portfolio/blob/main/Seismiq%20Screenshot_2.png" alt="Seismiq Screenshot 2" height="300" style="margin: 10px;"/>
-</div>
-
-<div align="center">
     <img src="https://github.com/ogebhardt/portfolio/blob/main/Seismiq%20Screenshot_1.png" alt="Seismiq Screenshot 3" height="300" style="margin: 10px;"/>
 </div>
 
