@@ -50,8 +50,8 @@ I was brought on as the 8th team member on a bridge contract that became Deloitt
 - [Original member of Center for Analytics](https://statemag.state.gov/2020/03/0320itn02/), seeing the team grow from 9 to 70-person a Congressionally mandated office
 
 <div align="center">
-    <img src="https://github.com/ogebhardt/portfolio/blob/4c7756d85215bb1d268e98b54449bed99b9cee9a/Center%20for%20Analytics%20Screenshot_1.png" alt="Center for Analytics Screenshot 1" height="300" style="margin: 10px;"/>
-    <img src="https://github.com/ogebhardt/portfolio/blob/main/Center%20for%20Analytics%20Screenshot_2.png" alt="Center for Analytics Screenshot 2" height="305" style="margin: 10px;"/>
+    <img src="https://github.com/ogebhardt/portfolio/blob/4c7756d85215bb1d268e98b54449bed99b9cee9a/Center%20for%20Analytics%20Screenshot_1.png" alt="Center for Analytics Screenshot 1" height="250" style="margin: 10px;"/>
+    <img src="https://github.com/ogebhardt/portfolio/blob/main/Center%20for%20Analytics%20Screenshot_2.png" alt="Center for Analytics Screenshot 2" height="250" style="margin: 10px;"/>
 </div>
 
 
