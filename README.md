@@ -1,6 +1,6 @@
 # Professional Profile
 
-I have over 5 years of blended experience ranging between data science to product and strategy from conception to launch in both startups and large enterprise settings. I double majored in Physics and Applied Math at Johns Hopkins University and have an MBA from MIT Sloan School of Management. Most recently, I was the CEO and Co-Founder of Seismiq, a B2B SaaS startup automating data pipeline observability for developers.
+I have over 5 years of blended experience ranging between data science to product and strategy from conception to launch in both startups and large enterprise settings. I double majored in Physics and Applied Math at Johns Hopkins University and have an MBA from MIT Sloan School of Management (2022 to 2024). Most recently, I was the CEO and Co-Founder of Seismiq, a B2B SaaS startup automating data pipeline observability for developers.
 
 I'm most passionate about products at the intersection of technology, data, and user experience. Whether I'm conducting customer interviews, developing AI/ML models, or creating intuitive UI/UX strategies, I'm passionate about solving real-world problems through innovative solutions.
 
