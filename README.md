@@ -35,7 +35,10 @@ I was brought on as a founding member and Director of Analytics where I supporte
 
 ### *Product Work:*
 
-![Bidscale Screenshot](https://github.com/ogebhardt/portfolio/blob/main/Bidscale_screenshot_1)
+<div align="center">
+    <img src="https://github.com/ogebhardt/portfolio/blob/main/Bidscale%20Screenshot_1" alt="Bidscale Screenshot 1" width="45%" style="margin: 10px;"/>
+    <img src="https://github.com/ogebhardt/portfolio/blob/main/Bidscale%20Screenshot_2.png" alt="Bidscale Screenshot 2" width="45%" style="margin: 10px;"/>
+</div>
 
 ## **DELOITTE:** July 2018 to Nov 2020
 
