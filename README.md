@@ -16,6 +16,9 @@ Developed a zero-configuration solution that reduced implementation from a multi
 
 ### *Product Work*:
 
+![Profile Picture](https://example.com/path/to/your/image.jpg)
+
+
 ## **BIDSCALE:** Dec 2020 to July 2022
 
 Bidscale's mission is to fix the broken government procurement process by utilizing technology to make contracting easy, from market research to award and beyond.
@@ -28,6 +31,8 @@ I was brought on as a founding member and Director of Analytics where I supporte
 
 ### *Product Work:*
 
+![Profile Picture](https://example.com/path/to/your/image.jpg)
+
 ## **DELOITTE:** July 2018 to Nov 2020
 
 Primary role was as an early member for the State Department's Center for Analytics which aimed to bring data-driven decision making to foreign diplomacy.
@@ -39,9 +44,3 @@ I was brought on as the 8th team member on a bridge contract that became Deloitt
 - [Personally named in announcement of Global Presence Navigator](https://vimeo.com/387470296/15000adfde) (21:00), the first ever, live holistic operating picture of global resource allocation at Data for Diplomacy 2020
 
 - [Original member of Center for Analytics](https://statemag.state.gov/2020/03/0320itn02/), seeing the team grow from 9 to 70-person a Congressionally mandated office
-
-
-
-
-
-![image](https://github.com/user-attachments/assets/17fdcfa3-5f2c-48aa-98c2-90ca12feff99)
