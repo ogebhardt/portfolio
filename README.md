@@ -52,7 +52,7 @@ I was brought on as the 8th team member on a bridge contract that became Deloitt
 
 - [Individually named in announcement of Global Presence Navigator](https://vimeo.com/387470296/15000adfde) (21:00), the first ever, live holistic operating picture of global resource allocation at Data for Diplomacy 2020
 
-- [Original member of Center for Analytics](https://statemag.state.gov/2020/03/0320itn02/), seeing the team grow from 9 to 70-person a Congressionally mandated office
+- [Original member of Center for Analytics](https://statemag.state.gov/2020/03/0320itn02/), seeing the team grow from 9 to a 70-person Congressionally mandated office
 
 <div align="center">
     <img src="https://github.com/ogebhardt/portfolio/blob/4c7756d85215bb1d268e98b54449bed99b9cee9a/Center%20for%20Analytics%20Screenshot_1.png" alt="Center for Analytics Screenshot 1" height="250" style="margin: 10px;"/>
