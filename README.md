@@ -8,7 +8,7 @@ I'm most passionate about products at the intersection of technology, data, and 
 
 Developed a zero-configuration solution that reduced implementation from a multi-day process to a single line of code, adapting software monitoring best practices specifically for data platform and analytics teams. Through customer discovery (60+ interviews), I secured verbal pilot commitments from several high-growth startups ($200M+ to $1B+ valuations).
 
-- [Selected as a speaker](https://www.linkedin.com/posts/genlab-venture-studios_ai-data-criticalinfrastructure-activity-7256779269178040320-Q-9N/?utm_source=share&utm_medium=member_desktop) for GenLab Conference panel titled *It's All About the Data*
+- [Selected as a speaker](https://www.linkedin.com/posts/genlab-venture-studios_ai-data-criticalinfrastructure-activity-7256779269178040320-Q-9N/?utm_source=share&utm_medium=member_desktop) for invite-only GenLab Conference panel titled *It's All About the Data*
 
 - [Developed Seismiq brand](https://seismiq.ai/), go-to-market materials, and messaging
 
