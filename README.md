@@ -12,6 +12,11 @@ Developed a zero-configuration solution that reduced implementation from a multi
 
 - [Developed Seismiq brand](https://seismiq.ai/), go-to-market materials, and messaging
 
+<div align="center">
+    <img src="https://github.com/ogebhardt/portfolio/blob/main/GenLab%20Conference%20Screenshot_1.jpg" alt="GenLab Screenshot 1" height="300" style="margin: 10px;"/>
+    <img src="https://github.com/ogebhardt/portfolio/blob/main/GenLab%20Conference%20Screenshot_2.jpg" alt="GenLab Screenshot 2" height="300" style="margin: 10px;"/>
+</div>
+
 ### *Product Work*:
 
 <div align="center">
