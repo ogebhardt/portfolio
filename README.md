@@ -4,7 +4,7 @@ I have over 7 years of blended experience ranging between data science to produc
 
 I'm most passionate about products at the intersection of technology, data, and user experience. Whether I'm conducting customer interviews, developing AI/ML models, or creating intuitive UI/UX strategies, I'm passionate about solving real-world problems through innovative solutions.
 
-## **KNOT API:** Feb 2025 to Present
+## **KNOT API:** Feb 2025 to Nov 2025
 
 Knot is a developer platform providing API/SDK infrastructure for merchant account connectivity, enabling businesses to build payment experiences without the complexity of managing multiple merchant integrations. I joined as the second product manager and interim technical lead, partnering directly with the CEO/CTO to drive product strategy across 3 of 4 core products. My work focuses on building enterprise-grade SDK capabilities and data products that power merchant connectivity for companies like PayPal.
 
@@ -14,7 +14,7 @@ Knot is a developer platform providing API/SDK infrastructure for merchant accou
 - [Architected Accounts API endpoint](https://docs.knotapi.com/api-reference/accounts/get-accounts) to provide real-time merchant account status and connection data
 - [(In Dev) AccountUpdater product](https://www.knotapi.com/accountupdater/) rebuilding 80% of connection logic to detect account drops and enable automated merchant reconnection
 
-## **SEISMIQ AI:** Jan 2024 to Nov 2024
+## **SEISMIQ AI:** Nov 2023 to Nov 2024
 
 Developed an automated data pipeline observability solution with zero-configuration files that reduced implementation from a multi-day process to a single line of code, adapting software monitoring best practices specifically for data platform and analytics teams. Through customer discovery (60+ interviews), I secured verbal pilot commitments from several high-growth startups ($200M+ to $1B+ valuations).
 
